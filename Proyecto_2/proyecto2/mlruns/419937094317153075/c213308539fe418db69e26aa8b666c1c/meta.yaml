@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Proyecto_2/proyecto2/mlruns/419937094317153075/c213308539fe418db69e26aa8b666c1c/artifacts
+end_time: 1690090469569
+entry_point_name: ''
+experiment_id: '419937094317153075'
+lifecycle_stage: active
+run_id: c213308539fe418db69e26aa8b666c1c
+run_name: SVC_run
+run_uuid: c213308539fe418db69e26aa8b666c1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690090461056
+status: 3
+tags: []
+user_id: marti

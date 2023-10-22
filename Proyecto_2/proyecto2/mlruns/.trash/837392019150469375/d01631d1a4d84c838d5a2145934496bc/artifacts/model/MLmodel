@@ -1,0 +1,33 @@
+artifact_path: model
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.12
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.2.2
+mlflow_version: 2.5.0
+model_uuid: 598acb77face412ea24425e994529758
+run_id: d01631d1a4d84c838d5a2145934496bc
+signature:
+  inputs: '[{"type": "string", "name": "customer_id"}, {"type": "double", "name":
+    "age"}, {"type": "string", "name": "occupation"}, {"type": "double", "name": "annual_income"},
+    {"type": "double", "name": "monthly_inhand_salary"}, {"type": "long", "name":
+    "num_bank_accounts"}, {"type": "long", "name": "num_credit_card"}, {"type": "long",
+    "name": "interest_rate"}, {"type": "double", "name": "num_of_loan"}, {"type":
+    "long", "name": "delay_from_due_date"}, {"type": "double", "name": "num_of_delayed_payment"},
+    {"type": "double", "name": "changed_credit_limit"}, {"type": "double", "name":
+    "num_credit_inquiries"}, {"type": "double", "name": "outstanding_debt"}, {"type":
+    "double", "name": "credit_utilization_ratio"}, {"type": "double", "name": "credit_history_age"},
+    {"type": "string", "name": "payment_of_min_amount"}, {"type": "double", "name":
+    "total_emi_per_month"}, {"type": "double", "name": "amount_invested_monthly"},
+    {"type": "string", "name": "payment_behaviour"}, {"type": "double", "name": "monthly_balance"}]'
+  outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "int64", "shape": [-1]}}]'
+utc_time_created: '2023-07-23 00:51:17.260156'

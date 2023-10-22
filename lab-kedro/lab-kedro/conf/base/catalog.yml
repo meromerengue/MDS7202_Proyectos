@@ -1,0 +1,58 @@
+# Here you can define all your data sets by using simple YAML syntax.
+#
+# Documentation for this file format can be found in "The Data Catalog"
+# Link: https://docs.kedro.org/en/stable/data/data_catalog.html
+  # catalog.yml
+
+
+companies:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/companies.csv
+
+reviews:
+  type: pandas.CSVDataSet
+  filepath: data/01_raw/reviews.csv
+
+shuttles:
+  type: pandas.ExcelDataSet
+  filepath: data/01_raw/shuttles.xslx
+
+companies_preprocess:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermediate/companies_preprocess.parquet
+  
+shuttles_preprocess:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermediate/shuttles_preprocess.parquet
+
+df_model:
+  type: pandas.ParquetDataSet
+  filepath: data/03_primary/df_model.parquet
+
+X_train:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/X_train.parquet
+
+X_val:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/X_val.parquet  
+
+X_test:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/X_test.parquet
+
+y_train:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/y_train.parquet
+
+y_val:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/y_val.parquet  
+
+y_test:
+  type: pandas.ParquetDataSet
+  filepath: data/05_model_input/y_test.parquet
+
+best_model:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/best_model.pickle

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Lab_11/lab-kedro/mlruns/0/dbba242421b9435bb4a233085085d782/artifacts
+end_time: 1689203790151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dbba242421b9435bb4a233085085d782
+run_name: RandomForestRegressor_run
+run_uuid: dbba242421b9435bb4a233085085d782
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689203781259
+status: 3
+tags: []
+user_id: marti

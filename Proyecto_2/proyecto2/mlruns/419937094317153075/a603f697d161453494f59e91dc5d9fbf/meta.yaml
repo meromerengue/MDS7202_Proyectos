@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Proyecto_2/proyecto2/mlruns/419937094317153075/a603f697d161453494f59e91dc5d9fbf/artifacts
+end_time: 1690090486866
+entry_point_name: ''
+experiment_id: '419937094317153075'
+lifecycle_stage: active
+run_id: a603f697d161453494f59e91dc5d9fbf
+run_name: XGBClassifier_run
+run_uuid: a603f697d161453494f59e91dc5d9fbf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690090482050
+status: 3
+tags: []
+user_id: marti

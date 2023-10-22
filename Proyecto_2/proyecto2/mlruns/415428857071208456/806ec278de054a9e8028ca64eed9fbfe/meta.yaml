@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Proyecto_2/proyecto2/mlruns/415428857071208456/806ec278de054a9e8028ca64eed9fbfe/artifacts
+end_time: 1690091256387
+entry_point_name: ''
+experiment_id: '415428857071208456'
+lifecycle_stage: active
+run_id: 806ec278de054a9e8028ca64eed9fbfe
+run_name: opti_run
+run_uuid: 806ec278de054a9e8028ca64eed9fbfe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690090487900
+status: 3
+tags: []
+user_id: marti

@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Proyecto_2/proyecto2/mlruns/837392019150469375/d01631d1a4d84c838d5a2145934496bc/artifacts
+deleted_time: 1690075991102
+end_time: 1690073483739
+entry_point_name: ''
+experiment_id: '837392019150469375'
+lifecycle_stage: deleted
+run_id: d01631d1a4d84c838d5a2145934496bc
+run_name: DummyClassifier_run
+run_uuid: d01631d1a4d84c838d5a2145934496bc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690073476350
+status: 3
+tags: []
+user_id: marti

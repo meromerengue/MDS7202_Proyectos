@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Lab_11/lab-kedro/mlruns/0/11c226ec55f84474b88cb7fefb6d48f9/artifacts
+end_time: 1689203827430
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 11c226ec55f84474b88cb7fefb6d48f9
+run_name: LGBMRegressor_run
+run_uuid: 11c226ec55f84474b88cb7fefb6d48f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689203819855
+status: 3
+tags: []
+user_id: marti

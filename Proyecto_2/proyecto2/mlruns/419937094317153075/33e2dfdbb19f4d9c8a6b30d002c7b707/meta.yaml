@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Proyecto_2/proyecto2/mlruns/419937094317153075/33e2dfdbb19f4d9c8a6b30d002c7b707/artifacts
+end_time: 1690090455726
+entry_point_name: ''
+experiment_id: '419937094317153075'
+lifecycle_stage: active
+run_id: 33e2dfdbb19f4d9c8a6b30d002c7b707
+run_name: LogisticRegression_run
+run_uuid: 33e2dfdbb19f4d9c8a6b30d002c7b707
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690090451004
+status: 3
+tags: []
+user_id: marti

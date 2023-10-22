@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Proyecto_2/proyecto2/mlruns/419937094317153075/49285cff1dc841f0b5b106a6e54999ee/artifacts
+end_time: 1690090460741
+entry_point_name: ''
+experiment_id: '419937094317153075'
+lifecycle_stage: active
+run_id: 49285cff1dc841f0b5b106a6e54999ee
+run_name: DecisionTreeClassifier_run
+run_uuid: 49285cff1dc841f0b5b106a6e54999ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690090455894
+status: 3
+tags: []
+user_id: marti

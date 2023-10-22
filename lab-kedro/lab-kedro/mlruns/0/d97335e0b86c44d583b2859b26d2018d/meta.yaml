@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Lab_11/lab-kedro/mlruns/0/d97335e0b86c44d583b2859b26d2018d/artifacts
+end_time: 1689203780984
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d97335e0b86c44d583b2859b26d2018d
+run_name: LinearRegression_run
+run_uuid: d97335e0b86c44d583b2859b26d2018d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689203769458
+status: 3
+tags: []
+user_id: marti

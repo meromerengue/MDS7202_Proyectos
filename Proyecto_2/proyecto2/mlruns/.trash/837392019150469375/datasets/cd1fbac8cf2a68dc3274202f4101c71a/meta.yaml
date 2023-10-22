@@ -1,0 +1,17 @@
+digest: 112b9539
+name: dataset
+profile: '{"num_rows": 2500, "num_elements": 52500}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "customer_id"}, {"type": "double",
+  "name": "age"}, {"type": "string", "name": "occupation"}, {"type": "double", "name":
+  "annual_income"}, {"type": "double", "name": "monthly_inhand_salary"}, {"type":
+  "long", "name": "num_bank_accounts"}, {"type": "long", "name": "num_credit_card"},
+  {"type": "long", "name": "interest_rate"}, {"type": "double", "name": "num_of_loan"},
+  {"type": "long", "name": "delay_from_due_date"}, {"type": "double", "name": "num_of_delayed_payment"},
+  {"type": "double", "name": "changed_credit_limit"}, {"type": "double", "name": "num_credit_inquiries"},
+  {"type": "double", "name": "outstanding_debt"}, {"type": "double", "name": "credit_utilization_ratio"},
+  {"type": "double", "name": "credit_history_age"}, {"type": "string", "name": "payment_of_min_amount"},
+  {"type": "double", "name": "total_emi_per_month"}, {"type": "double", "name": "amount_invested_monthly"},
+  {"type": "string", "name": "payment_behaviour"}, {"type": "double", "name": "monthly_balance"}]}'
+source: '{"tags": {"mlflow.user": "marti", "mlflow.source.name": "C:\\Users\\marti\\anaconda3\\envs\\proyecto2-environment\\Scripts\\kedro",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

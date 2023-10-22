@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Lab_11/lab-kedro/mlruns/0/b607b4158886414e93c9251c2d3c26fc/artifacts
+end_time: 1689203811087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b607b4158886414e93c9251c2d3c26fc
+run_name: SVR_run
+run_uuid: b607b4158886414e93c9251c2d3c26fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689203790420
+status: 3
+tags: []
+user_id: marti

@@ -1,0 +1,9 @@
+digest: 57218baa
+name: dataset
+profile: '{"features_shape": [4362, 26], "features_size": 113412, "features_nbytes":
+  453648}'
+schema: '{"mlflow_tensorspec": {"features": "[{\"type\": \"tensor\", \"tensor-spec\":
+  {\"dtype\": \"float32\", \"shape\": [-1, 26]}}]", "targets": null}}'
+source: '{"tags": {"mlflow.user": "marti", "mlflow.source.name": "C:\\Users\\marti\\anaconda3\\envs\\proyecto2-environment\\Scripts\\kedro",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

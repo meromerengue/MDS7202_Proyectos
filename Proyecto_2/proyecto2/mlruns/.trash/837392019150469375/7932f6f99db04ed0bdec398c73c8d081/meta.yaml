@@ -1,0 +1,16 @@
+artifact_uri: file:///C:/Users/marti/Desktop/Universidad/IX_Semestre/LPC/Proyecto_2/proyecto2/mlruns/837392019150469375/7932f6f99db04ed0bdec398c73c8d081/artifacts
+deleted_time: 1690075991102
+end_time: 1690073484006
+entry_point_name: ''
+experiment_id: '837392019150469375'
+lifecycle_stage: deleted
+run_id: 7932f6f99db04ed0bdec398c73c8d081
+run_name: LogisticRegression_run
+run_uuid: 7932f6f99db04ed0bdec398c73c8d081
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690073483894
+status: 4
+tags: []
+user_id: marti
